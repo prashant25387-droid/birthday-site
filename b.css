@@ -1,0 +1,169 @@
+body{
+    text-align: center;  
+    font-family: "Happy Monkey", system-ui;
+    font-style: normal;
+    background-image: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGx3cWF3NXp1M3k3bDluc2huY2c0aXV1ZDFtZHRib3g4ZDhrOGhmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hh9sPYeSWhAUx6NDBM/giphy.gif");
+    background-size: cover;
+}
+
+
+
+
+#image{
+    width: 150px;
+    height: 250px;
+    border-radius: 50%;
+    border: 4px solid rgb(245, 127, 245);
+}
+.text{
+    margin:20px 0px;
+    font-family:"Happy Monkey", system-ui ;
+    font-weight: 700;
+    color: bisque;
+    text-shadow: 2px 2px 5px black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+   
+}
+#date,#age{
+    background: rgb(245, 127, 245);
+    padding: 5px 10px;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+.fgift{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/014/172/876/original/gift-boxes-with-ribbon-and-bows-different-shapes-and-sizes-seamless-pattern-presents-in-festive-wrapping-paper-for-christmas-holiday-or-birthday-sale-shopping-concept-texture-free-vector.jpg");
+    background-size: cover;
+    width: 400px;
+    border: 6px solid teal;
+    border-radius: 10px;
+    height: 400px;
+
+}
+.fgift:hover{
+    background-image: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2V2NjI2cHNiZjB0Zng3dGtwdnpsZmI4eTU0cjF0em9vZXRveGdtcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ukmZRuEqc2Rbi/giphy.gif");
+    background-size: cover;
+
+}
+.wish{
+    font-family:"Happy Monkey", system-ui ;
+    font-weight: 700;
+    
+    color: bisque;
+    text-shadow: 2px 2px 5px black;
+    margin-bottom: 10px;
+
+}
+.touch{
+    font-family:"Happy Monkey", system-ui ;
+    font-weight: 300;
+    font-size: small;
+    color: bisque;
+    text-shadow: 2px 2px 5px black;
+
+}
+.firstgift{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+
+}
+.secondgift{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+
+}
+.sgift{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/014/172/876/original/gift-boxes-with-ribbon-and-bows-different-shapes-and-sizes-seamless-pattern-presents-in-festive-wrapping-paper-for-christmas-holiday-or-birthday-sale-shopping-concept-texture-free-vector.jpg");
+    background-size: cover;
+    width: 400px;
+    border: 6px solid teal;
+    border-radius: 10px;
+    height: 400px;
+}
+.sgift:hover{
+    background-image: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXMzano2YWRmemZsaWMyeXByY2N5ZHNzcW40cnA0OGxpbHNpZWdzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/31lPv5L3aIvTi/giphy.gif");
+    background-size: cover;
+}
+.thirdgift{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+
+}
+.tgift{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/014/172/876/original/gift-boxes-with-ribbon-and-bows-different-shapes-and-sizes-seamless-pattern-presents-in-festive-wrapping-paper-for-christmas-holiday-or-birthday-sale-shopping-concept-texture-free-vector.jpg");
+    background-size: cover;
+    width: 400px;
+    border: 6px solid teal;
+    border-radius: 10px;
+    height: 400px;
+
+}
+.tgift:hover{
+    background-image: url("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamN4aG4yZmpmaHJncWd1cDN6YW83cnV1emg2bGk4N2V1enZ6NXF4aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2WhnFwWbK2F5Xhwel1/giphy.gif");
+    background-size: cover;
+}
+.fourthgift{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+}
+.fogift{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/014/172/876/original/gift-boxes-with-ribbon-and-bows-different-shapes-and-sizes-seamless-pattern-presents-in-festive-wrapping-paper-for-christmas-holiday-or-birthday-sale-shopping-concept-texture-free-vector.jpg");
+    background-size: cover;
+    width: 400px;
+    border: 6px solid teal;
+    border-radius: 10px;
+    height: 400px;
+    
+}
+.fogift:hover{
+    background-image: url("https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHcydWkyMHhvbjhpY2VzbXBuM3Jsb3hpY3kweHRpcG1kNmxueGowaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/puj7DKZSM67qkt4jNQ/giphy.gif");
+    background-size: cover;
+}
+.cheers{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+}
+.hurray{
+     background-image: url("https://static.vecteezy.com/system/resources/previews/014/172/876/original/gift-boxes-with-ribbon-and-bows-different-shapes-and-sizes-seamless-pattern-presents-in-festive-wrapping-paper-for-christmas-holiday-or-birthday-sale-shopping-concept-texture-free-vector.jpg");
+    background-size: cover;
+    width: 400px;
+    border: 6px solid teal;
+    border-radius: 10px;
+    height: 200px;
+
+}
+.hurray:hover{
+    background-image: url("https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXhlZXBucjMybzl3ZTNrY3J2ajl1NDBsamhzcGk4M2hva3U3MnlueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zhMFWEYXtur0k/giphy.gif");
+    background-size: cover;
+}
+.footer{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    width: 400px;
+    color: bisque;
+    text-shadow: 2px 2px 5px black;
+    margin-bottom: 10px;
+    display: block;
+    margin: 0 auto;
+}
+a{
+    color: bisque;
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+}
